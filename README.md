@@ -8,6 +8,8 @@ Brick  | Health
 <img src="https://github.com/none06/Casse-briques/blob/master/res/1-brick.png?raw=true" width=200 />  | 100 Pv
 <img src="https://github.com/none06/Casse-briques/blob/master/res/1-renforced-brick.png?raw=true" width=200 />  | **200** Pv
 
+Note: the ball's damage is **100** per hit.
+
 # Items
                     
 Bonus  | Description
