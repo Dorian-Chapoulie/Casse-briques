@@ -11,7 +11,7 @@ Bonus  | Description
 <img src="https://github.com/none06/Casse-briques/blob/master/res/3-item.png?raw=true" width=150 />  | Spawn a new ball
 <img src="https://github.com/none06/Casse-briques/blob/master/res/4-item.png?raw=true" width=110 />  | Once picked up, it will be stored in your inventory, press **space** to throw. It will explode as soon as it touch a brick or the window. It will blow up bricks who are in a radius of **150**
 
-Note: everything is clear once the level is completed
+Note: everything is cleared once the level is completed (including your inventory)
 
 # Demo
 (click to view the video)
