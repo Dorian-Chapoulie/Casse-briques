@@ -2,6 +2,12 @@
 - This is an endless brick breaker game
 - Every brick that you break and every item that you pick will give you 1 point
 
+# Bricks
+Brick  | Health
+------------- | -------------
+<img src="https://github.com/none06/Casse-briques/blob/master/res/1-brick.png?raw=true" width=200 />  | 100 Pv
+<img src="https://github.com/none06/Casse-briques/blob/master/res/1-renforced-brick.png?raw=true" width=200 />  | **200** Pv
+
 # Items
                     
 Bonus  | Description
